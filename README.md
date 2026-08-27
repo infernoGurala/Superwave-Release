@@ -7,4 +7,4 @@ Includes
 5. Plant Note 
 6. Spaced-repetiton
 
-![Ima-1](./ss/image-1)
+![Ima-1](/Ss/Ima-1.png)
