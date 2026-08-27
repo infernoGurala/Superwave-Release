@@ -7,7 +7,10 @@ Includes
 5. Plant Note 
 6. Spaced-repetiton
 
-<img src = "https://github.com/infernoGurala/Superwave-Release/blob/main/Ss/ima-1.png" width = "1000">
+---
+> Full Non-Destructive workflow.
+---
+<img src = "https://github.com/infernoGurala/Superwave-Release/blob/main/Ss/ima-1.png" width = "1000">→→
 
 <img src = "https://github.com/infernoGurala/Superwave-Release/blob/main/Ss/ima-2.png" width = "1000">
 
