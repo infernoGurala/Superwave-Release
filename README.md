@@ -7,4 +7,4 @@ Includes
 5. Plant Note 
 6. Spaced-repetiton
 
-![Ima-1](/Ss/Ima-1.png)
+<img src = "https://github.com/infernoGurala/Superwave-Release/blob/main/Ss/Ima-1.png" width = "600">
